@@ -1,4 +1,10 @@
-### Hi there 👋
+[MAHMOUDOSREAL](https://github.com/mahmoudosreal/mahmoudosreal)/README.md
+
+# 🚀 mahmoudosreal
+
+**`Mahmoud Al Homsi Dagher (Trading bots/Blockchain/Product Manager)`**
+
+Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** expert with a penchant for pushing the boundaries of technological innovation. Humble yet driven, I blend a sharp sense of humor with a deep well of knowledge to propel research and development initiatives forward. Passionate about leveraging cutting-edge technology to enhance the human experience and committed to pioneering advancements in decentralized finance. Find me at the intersection of innovation and progress, where I thrive in the pursuit of transformative solutions. You can find all my links here 👉🏼"[mahmoudos](https://mahmoudos.bio.link/)"👈🏻.
 
 <!--
 **mahmoudosreal/mahmoudosreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
