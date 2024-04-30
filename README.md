@@ -22,7 +22,7 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 </p>
 
 
-----------
+
 
 
 ### 💻  Languages and Tools
@@ -44,7 +44,7 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 <a href="#"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
 <a href="#"><img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
 <br />
-
+<br />
 #
 
 
