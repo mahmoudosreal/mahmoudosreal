@@ -8,16 +8,16 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 
 <p align="left">
   <a href="#">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/ALGORITHMIC_TRADING-27-00000000?style=for-the-badge&logo=probot&logoColor=white&logoSize=auto&label=ALGORITHMIC%20TRADING&labelColor=%23d50000&color=%23ff1744"/
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/ALGORITHMIC_TRADING-27-00000000?style=for-the-badge&logo=probot&logoColor=white&logoSize=auto&label=ALGORITHMIC%20TRADING&labelColor=%23d50000&color=%23ff1744"/>
   </a>
   <a href="#">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/BLOCKCHAIN-31-000000?style=for-the-badge&logo=bitcoinsv&logoColor=white&logoSize=auto&label=BLOCKCHAIN&labelColor=%23aeea00&color=%23c6ff00"/
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/BLOCKCHAIN-31-000000?style=for-the-badge&logo=bitcoinsv&logoColor=white&logoSize=auto&label=BLOCKCHAIN&labelColor=%23aeea00&color=%23c6ff00"/>
   </a>
   <a href="#">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/FULL_STACK-111-000000?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&label=FULL%20STACK&labelColor=%2300bfa5&color=%231de9b6"/
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/FULL_STACK-111-000000?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&label=FULL%20STACK&labelColor=%2300bfa5&color=%231de9b6"/>
   </a>
   <a href="#">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/PROPOSALS-1021-000000?style=for-the-badge&logo=protondrive&logoColor=white&logoSize=auto&label=PROPOSALS&labelColor=%234527a0&color=%235e35b1"/
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/PROPOSALS-1021-000000?style=for-the-badge&logo=protondrive&logoColor=white&logoSize=auto&label=PROPOSALS&labelColor=%234527a0&color=%235e35b1"/>
   </a>
 </p>
 
