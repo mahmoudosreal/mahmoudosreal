@@ -27,22 +27,22 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 
 ### 💻  Languages and Tools
 
-<a href="#"><img align="left" alt="MT5" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/MQL5_Community_Logo.png" /></a>
-<a href="#"><img align="left" alt="PineScript" width="30px" style="padding-right:10px;" src="https://www.tradingview.com/pine-script-docs/en/v5/_images/Pine_Script_logo.svg" /></a>
-<a href="#"><img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /></a>
-<a href="#"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></a>
-<a href="#"><img align="left" alt="Vyper" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vyper/vyper-original.svg" /></a>
-<a href="#"><img align="left" alt="Move" width="30px" style="padding-right:10px;" src="https://pontemnetwork.gallerycdn.vsassets.io/extensions/pontemnetwork/move-language/0.5.0/1624039308768/Microsoft.VisualStudio.Services.Icons.Default" /></a>
-<a href="#"><img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
-<a href="#"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" /></a>
-<a href="#"><img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /></a>
-<a href="#"><img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /></a>
-<a href="#"><img align="left" alt="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a>
-<a href="#"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-<a href="#"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-<a href="#"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-<a href="#"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
-<a href="#"><img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
+<a href="#"><img align="left" alt="MT5" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fmql5_square.png?alt=media&token=4a35de45-feac-49cc-8aa3-28a813989a7d" /></a>
+<a href="#"><img align="left" alt="PineScript" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fpinescript_square.png?alt=media&token=f60680b6-9971-4663-938a-fc9b0d9505cc" /></a>
+<a href="#"><img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fsolidity_square.png?alt=media&token=2a619856-73dc-47de-ae04-c5896f98f3e6" /></a>
+<a href="#"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Frust_square.png?alt=media&token=32665a9e-8861-40af-a294-4cc4bdb5bf04" /></a>
+<a href="#"><img align="left" alt="Vyper" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fviper_square.png?alt=media&token=a52acaf2-a2c9-4b2d-8896-cf057f9f8a7b" /></a>
+<a href="#"><img align="left" alt="Move" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fmove_square.png?alt=media&token=e68f1fe8-9cfa-48af-b024-165e39661d37" /></a>
+<a href="#"><img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fgo_square.png?alt=media&token=b0f6cc68-244d-4cb3-8bc5-4b6239d2e19e" /></a>
+<a href="#"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fpython_square.png?alt=media&token=f9200975-8533-4ac4-ab4b-85acfba206af" /></a>
+<a href="#"><img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fpytorch_square.png?alt=media&token=b13ffce2-c275-48bb-9278-365c057b1663" /></a>
+<a href="#"><img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Ffirebase_square.png?alt=media&token=f599b564-fc63-462d-af77-ae8db916c1a4" /></a>
+<a href="#"><img align="left" alt="NodeJs" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fnode_square.png?alt=media&token=9aef3e67-75b7-4e3c-80f3-242c307bd84d" /></a>
+<a href="#"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Freact_square.png?alt=media&token=77620971-f602-49e4-abcf-4eb0ec06ac8b" /></a>
+<a href="#"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fjavascript_square.png?alt=media&token=bc0a36c1-e5d2-49bc-acb8-e1829c2d56db" /></a>
+<a href="#"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fc%2B%2B_square.png?alt=media&token=e88991b7-1747-439a-9219-b6ecdddb39ee" /></a>
+<a href="#"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fgithub_square.png?alt=media&token=0300edae-cd37-4797-a1dd-7847a15a95f9" /></a>
+<a href="#"><img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fflutter_square.png?alt=media&token=b589b9a2-45f8-44f9-b177-8966bdae3d4a" /></a>
 <br />
 <br />
 #
