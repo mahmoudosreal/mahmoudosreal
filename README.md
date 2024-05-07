@@ -22,9 +22,6 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 </p>
 
 
-
-
-
 ### 💻  Languages and Tools
 
 <a href="#"><img align="left" alt="MT5" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fmql5_square.png?alt=media&token=4a35de45-feac-49cc-8aa3-28a813989a7d" /></a>
