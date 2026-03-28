@@ -22,8 +22,8 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 </p>
 
 
-### 💻  Languages and Tools
-<a href="#"><img align="left" alt="MT5" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fmql5_square.png?alt=media&token=4a35de45-feac-49cc-8aa3-28a813989a7d" /></a>
+<!--### 💻  Languages and Tools-->
+<!-- <a href="#"><img align="left" alt="MT5" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fmql5_square.png?alt=media&token=4a35de45-feac-49cc-8aa3-28a813989a7d" /></a>
 <a href="#"><img align="left" alt="PineScript" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fpinescript_square.png?alt=media&token=f60680b6-9971-4663-938a-fc9b0d9505cc" /></a>
 <a href="#"><img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fsolidity_square.png?alt=media&token=2a619856-73dc-47de-ae04-c5896f98f3e6" /></a>
 <a href="#"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Frust_square.png?alt=media&token=32665a9e-8861-40af-a294-4cc4bdb5bf04" /></a>
@@ -38,7 +38,7 @@ Dedicated **DeFi** enthusiast, **blockchain** aficionado, and **trading bot** ex
 <a href="#"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fjavascript_square.png?alt=media&token=bc0a36c1-e5d2-49bc-acb8-e1829c2d56db" /></a>
 <a href="#"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fc%2B%2B_square.png?alt=media&token=e88991b7-1747-439a-9219-b6ecdddb39ee" /></a>
 <a href="#"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fgithub_square.png?alt=media&token=0300edae-cd37-4797-a1dd-7847a15a95f9" /></a>
-<a href="#"><img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fflutter_square.png?alt=media&token=b589b9a2-45f8-44f9-b177-8966bdae3d4a" /></a>
+<a href="#"><img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://firebasestorage.googleapis.com/v0/b/mahmoudosweb.appspot.com/o/icons_technologies%2Fflutter_square.png?alt=media&token=b589b9a2-45f8-44f9-b177-8966bdae3d4a" /></a> -->
 </br></br>
 #
 
